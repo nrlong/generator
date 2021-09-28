@@ -33,7 +33,6 @@ const powerNumbers = () => {
     }
     powerOutput.innerHTML = powerArray;
 
-    console.log(powerArray)
 }
 
 const click = (e) => {
